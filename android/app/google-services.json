@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997287507537",
+    "project_id": "dak-ghar-25003",
+    "storage_bucket": "dak-ghar-25003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997287507537:android:0891afac0f2b4c594e6a70",
+        "android_client_info": {
+          "package_name": "com.example.dak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtperOVlzReRQ6MqT2B4ybZD1zgCJCLtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
